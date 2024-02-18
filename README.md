@@ -1,17 +1,32 @@
 <h1 align="center">Hi 👋, I'm Hrushikesh Malpekar</h1>
 <h3 align="center">Data Engineer | Python | Spark | AWS | ML Enthusiast</h3>
 
-- 🌱 I’m currently learning **expanding my horizons—diving into the world of deep learning models powered by TensorFlow and exploring big data solutions on AWS for enhanced business insights.**
+-I'm a proactive data engineer who thrives on turning complex data into actionable insights. Python, Spark, Airflow, AWS, big data frameworks, and data modeling are my tools of the trade, and I use them to empower companies to make data-driven decisions that drive impact.
 
-- 👯 I’m looking to collaborate on **cutting-edge data projects that blend my technical skills with a dash of creativity.**
+Here's a glimpse of my impact:
 
-- 👨‍💻 All of my projects are available at [https://github.com/hrushikesh009](https://github.com/hrushikesh009)
+🚄 𝟕𝟎% 𝐄𝐟𝐟𝐢𝐜𝐢𝐞𝐧𝐜𝐲 & 𝟐𝟓% 𝐂𝐨𝐬𝐭 𝐑𝐞𝐝𝐮𝐜𝐭𝐢𝐨𝐧: Automated data processing with Airflow, AWS Glue, and Celery, saving time and money. Think optimized operations and happy wallets!
 
-- 💬 Ask me about **anything data-related, cloud architecture, or how to cook up a storm in the kitchen using data insights.**
+⚡️𝟓𝟎% 𝐅𝐚𝐬𝐭𝐞𝐫 𝐃𝐚𝐭𝐚 𝐏𝐫𝐨𝐜𝐞𝐬𝐬𝐢𝐧𝐠: Streamlined data pipelines with Airflow, Spark, and AWS for quicker decision-making ️. Adapt to market changes like a cheetah!
 
-- 📫 How to reach me **hrushimalpekar1999@gmail.com**
+📑𝟒𝟓% 𝐌𝐨𝐫𝐞 𝐀𝐜𝐜𝐮𝐫𝐚𝐭𝐞 𝐃𝐚𝐭𝐚 & 𝟐𝟎% 𝐃𝐞𝐞𝐩𝐞𝐫 𝐈𝐧𝐬𝐢𝐠𝐡𝐭𝐬: Implemented data modeling and centralized data in Redshift, leading to reliable decisions and better campaigns. No more guesswork, just pure insights!
 
-- ⚡ Fun fact **When I'm not engineering data solutions, I'm experimenting with new cuisines, leveraging data to spice up my culinary adventures.**
+⏱️𝐑𝐞𝐚𝐥-𝐓𝐢𝐦𝐞 𝐃𝐚𝐭𝐚 𝐋𝐚𝐤𝐞 & 𝐏𝐞𝐫𝐬𝐨𝐧𝐚𝐥𝐢𝐳𝐞𝐝 𝐄𝐧𝐠𝐚𝐠𝐞𝐦𝐞𝐧𝐭: Built a real-time data lake with Kafka, S3, and Snowplow Tracker for personalized recommendations and happy customers. Engagement that's out of this world!
+
+But there's more to me than just code:
+
+📚𝐏𝐮𝐛𝐥𝐢𝐬𝐡𝐞𝐝 𝐫𝐞𝐬𝐞𝐚𝐫𝐜𝐡: "Price Prediction using Machine Learning Methods" because sharing knowledge is essential.
+🏆𝐀𝐰𝐚𝐫𝐝-𝐰𝐢𝐧𝐧𝐢𝐧𝐠: Led a project that achieved Top 10 placement for Best Project-Based Learning.
+🎓𝐏𝐚𝐬𝐬𝐢𝐨𝐧𝐚𝐭𝐞 𝐥𝐞𝐚𝐫𝐧𝐞𝐫: Always expanding my skillset with certifications and personal projects like TensorFlow-OCR-Invoice-Extractor.
+
+What excites me?
+
+𝗖𝗼𝗹𝗹𝗮𝗯𝗼𝗿𝗮𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗶𝗻𝗻𝗼𝘃𝗮𝘁𝗶𝘃𝗲 𝘁𝗲𝗮𝗺𝘀 𝘁𝗼 𝗰𝗼𝗻𝗾𝘂𝗲𝗿 𝗱𝗮𝘁𝗮, 𝗘𝘃𝗲𝗿𝗲𝘀𝘁.
+𝗗𝗲𝘀𝗶𝗴𝗻𝗶𝗻𝗴 𝗲𝗳𝗳𝗶𝗰𝗶𝗲𝗻𝘁 𝗱𝗮𝘁𝗮 𝗽𝗶𝗽𝗲𝗹𝗶𝗻𝗲𝘀 𝘄𝗶𝘁𝗵 𝗰𝘂𝘁𝘁𝗶𝗻𝗴-𝗲𝗱𝗴𝗲 𝘁𝗲𝗰𝗵.
+𝗗𝗲𝗹𝗶𝘃𝗲𝗿𝗶𝗻𝗴 𝗶𝗺𝗽𝗮𝗰𝘁𝗳𝘂𝗹 𝘀𝗼𝗹𝘂𝘁𝗶𝗼𝗻𝘀 𝘁𝗵𝗮𝘁 𝗺𝗼𝘃𝗲 𝘁𝗵𝗲 𝗻𝗲𝗲𝗱𝗹𝗲.
+
+
+Let's connect! I'm eager to chat about how I can help you unlock the power of your data ⚡.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
